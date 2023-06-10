@@ -1021,8 +1021,8 @@ article.product-card footer > * {
   right: 0;
   bottom: 0;
   background-color: #ccc;
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
   border-radius: 34px;
 }
 
@@ -1034,8 +1034,8 @@ article.product-card footer > * {
   left: 4px;
   bottom: 4px;
   background-color: white;
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
   border-radius: 50%;
 }
 

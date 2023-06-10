@@ -2,6 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/pricing": "pages/pricing.js",
   "/": "pages/index.js",
-  "/products": "pages/products.js"
+  "/products": "pages/products.js",
+  "/products/[slug]": "pages/products/[slug].js",
+  "/api/checkout/[priceId]": "pages/api/checkout/[priceId].js"
 }
